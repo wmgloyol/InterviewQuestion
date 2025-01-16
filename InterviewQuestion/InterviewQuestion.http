@@ -1,0 +1,6 @@
+@InterviewQuestion_HostAddress = http://localhost:5080
+
+GET {{InterviewQuestion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
